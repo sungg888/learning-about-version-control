@@ -3,3 +3,4 @@
 auther: Ruocong Sun
 
 
+Solving merge conflicts is easy!
