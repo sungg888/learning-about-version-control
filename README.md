@@ -2,4 +2,5 @@
 
 auther: Ruocong Sun
 
-Solving merge conflicts is soooooo hard!
+
+olving merge conflicts takes conscious effort, but I can do it!
